@@ -1,10 +1,18 @@
-li {
-	font-weight: bold
-}
 body {
-  background-color: linen;
+  background-color: ivory;
+}
+li {
+	font-weight: bold;
+	color: lightseagreen;
 }
 h1 {
-  color: maroon;
-  margin-left: 40px;
+	font-family: cursive;
+  	color: lightseagreen;
 }
+h2 {
+	color:lightseagreen;
+}
+h3 {
+	color:lightseagreen;
+}
+
