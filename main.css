@@ -1,9 +1,11 @@
 body {
   background-color: ivory;
+	border-color: pink;
+	border-style: solid;
+	border-width: medium;
 }
 li {
 	font-weight: bold;
-	color: lightseagreen;
 }
 h1 {
 	font-family: cursive;
