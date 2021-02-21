@@ -9,7 +9,7 @@ li {
 }
 h1 {
 	font-family: cursive; <!-- changes the fond ot h1 to cursive-->
-  	color: lightseagreen; <!-- changes the color of h1 to light sea green-->
+  	color:lightseagreen; <!-- changes the color of h1 to light sea green-->
 }
 h2 {
 	color:blue; <!-- changes the color of h2 to blue-->
