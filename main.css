@@ -1,20 +1,20 @@
 body {
-  background-color: ivory; <!-- makes the background ivory-->
+  background-color: ivory; /* makes the background ivory */
 	border-color: pink; 
 	border-style: solid;
-	border-width: medium; <!-- makes the border pink, solid, and medium width -->
+	border-width: medium; /* makes the border pink, solid, and medium width */
 }
 li {
-	font-weight: bold; <!-- makes the contents of the table of contents bold -->
+	font-weight: bold; /* makes the contents of the table of contents bold */
 }
 h1 {
-	font-family: cursive; <!-- changes the fond ot h1 to cursive-->
-  	color:lightseagreen; <!-- changes the color of h1 to light sea green-->
+	font-family: cursive; /* changes the fond ot h1 to cursive */
+  	color:lightseagreen; /* changes the color of h1 to light sea green */
 }
 h2 {
-	color:blue; <!-- changes the color of h2 to blue-->
+	color:blue; /* changes the color of h2 to blue */
 }
 h3 {
-	color:purple; <!-- changes the color of h3 to purple->
+	color:purple; /* changes the color of h3 to purple */
 }
 
