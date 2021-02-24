@@ -10,11 +10,14 @@ li {
 h1 {
 	font-family: cursive; /* changes the fond ot h1 to cursive */
   	color:lightseagreen; /* changes the color of h1 to light sea green */
+	font-size: 70; /* changes font size */
 }
 h2 {
 	color:blue; /* changes the color of h2 to blue */
+	font-size: 30; /* changes font size */
 }
 h3 {
 	color:purple; /* changes the color of h3 to purple */
+	font-size: 20; /* changes font size */
 }
 
